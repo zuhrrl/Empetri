@@ -1,4 +1,4 @@
-# Emptri - Youtube Video to MP3, MP4
+# Empetri - Youtube Video to MP3, MP4
 
 ## About Empetri
 
