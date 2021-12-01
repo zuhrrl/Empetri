@@ -2,7 +2,8 @@
 
 ## About Empetri
 
-Empetri is a simple backend API build with Laravel. Convert Youtube Video to MP3, MP4
+Empetri is a simple backend API build with Laravel. Convert Youtube Video to MP3, MP4. 
+Thanks `https://yt1s.com/api/`
 
 ## Features
 
