@@ -13,7 +13,7 @@ Empetri is a simple backend API build with Laravel. Convert Youtube Video to MP3
 
 ## Installation
 
-- Run `composer create-project --prefer-dist zuhrrl/empetri`
+- Run `composer create-project --prefer-dist zuhrrl/Empetri`
 - Edit `.env` and set your database connection details
 - Run `php artisan migrate:fresh`
 
