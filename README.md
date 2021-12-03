@@ -22,6 +22,23 @@ Thanks `https://yt1s.com/api/`
 
 ## Usage
 
-- Endpoint: `/api/request`
+- Endpoint: `/api/request/`
 - Parameters: `youtube_url={video_url}&youtube_file_type={mp3/mp4}`
 - Done
+
+## Response
+```
+{
+    "message": "Request success",
+    "data": {
+        "youtube_url": "Youtube Video URL",
+        "youtube_video_id": "Youtube Video ID",
+        "youtube_video_name": "Youtube Video Name",
+        "youtube_file_type": "mp3/mp4",
+        "youtube_download_path": "Download Link",
+        "updated_at": "Time Updated",
+        "created_at": "Time Created",
+        "id": ID
+    }
+}
+```
